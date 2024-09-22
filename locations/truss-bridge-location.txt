@@ -1,0 +1,32 @@
+
+
+------------------------------ UFO -------------------------------
+Latitude:     46.50704942 deg
+Longitude:    -84.36024947 deg
+Altitude ASL: 236.2747 m (775.1796 ft)
+38Heading:      293.1 deg
+Ground Elev:  174.9998 m (574.1464 ft)
+
+# w090n40/w085n46/1565218.stg
+OBJECT_STATIC -84.36024947 46.50704942 174.9998 66.9
+
+http://maps.google.com/maps?ll=46.5070494165,-84.3602494726&z=12&t=h
+$ fgfs --aircraft=ufo --lat=46.507049 --lon=-84.360249 --altitude=775.18 --heading=293.6
+
+
+------------------------ Selected Object -------------------------
+Path:         /home/david/Models/soo-rail-bridge/truss-bridge.ac
+Latitude:     46.50729534 deg
+Longitude:    -84.36204158 deg
+Altitude ASL: 184.8495 m (606.4615 ft)
+Heading:      13.9 deg
+Pitch:        0.0 deg
+Roll:        -0.0 deg
+
+------------------------------------------------------------------
+
+# Lines for stg
+OBJECT_SHARED /home/david/Models/soo-rail-bridge/truss-bridge.ac -84.36204158 46.50729534 184.8495 346.1 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED /home/david/Models/soo-rail-bridge/truss-bridge.ac -84.36204158 46.50729534 184.8495 346.1 0.1 0.0 -0.0
