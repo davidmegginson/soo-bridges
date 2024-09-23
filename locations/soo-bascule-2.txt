@@ -1,0 +1,34 @@
+
+
+------------------------------ UFO -------------------------------
+Latitude:     46.50135108 deg
+Longitude:    -84.36458472 deg
+Altitude ASL: 235.0414 m (771.1332 ft)
+38Heading:      44.2 deg
+Ground Elev:  181.4630 m (595.3510 ft)
+
+# w090n40/w085n46/1565218.stg
+OBJECT_STATIC -84.36458472 46.50135108 181.4630 315.8
+
+http://maps.google.com/maps?ll=46.5013510818,-84.3645847237&z=12&t=h
+$ fgfs --aircraft=ufo --lat=46.501351 --lon=-84.364585 --altitude=771.13 --heading=28.5
+
+
+------------------------ Selected Object -------------------------
+Path:         /home/david/Models/soo-rail-bridge/soo-double-bascule.ac
+Latitude:     46.50355850 deg
+Longitude:    -84.36334095 deg
+Altitude ASL: 184.7316 m (606.0746 ft)
+Heading:      192.0 deg
+Pitch:        0.0 deg
+Roll:        -0.0 deg
+
+------------------------------------------------------------------
+
+# Lines for stg
+OBJECT_SHARED /home/david/Models/soo-rail-bridge/soo-double-bascule.ac -84.36334095 46.50355850 184.7316 168.0 0.0 -0.0
+OBJECT_SHARED /home/david/Models/soo-rail-bridge/soo-double-bascule.ac -84.36341579 46.50344192 184.8229 348.2 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED /home/david/Models/soo-rail-bridge/soo-double-bascule.ac -84.36334095 46.50355850 184.7316 168.0 3.7 0.0 -0.0
+OBJECT_SHARED /home/david/Models/soo-rail-bridge/soo-double-bascule.ac -84.36341579 46.50344192 184.8229 348.2 3.8 0.0 -0.0
