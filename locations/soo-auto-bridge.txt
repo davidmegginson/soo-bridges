@@ -1,0 +1,38 @@
+
+
+------------------------------ UFO -------------------------------
+Latitude:     46.51281956 deg
+Longitude:    -84.35735125 deg
+Altitude ASL: 242.1479 m (794.4484 ft)
+38Heading:      282.2 deg
+Ground Elev:  181.2362 m (594.6068 ft)
+
+# w090n40/w085n46/1565218.stg
+OBJECT_STATIC -84.35735125 46.51281956 181.2362 77.8
+
+http://maps.google.com/maps?ll=46.5128195559,-84.3573512480&z=12&t=h
+$ fgfs --aircraft=ufo --lat=46.512820 --lon=-84.357351 --altitude=794.45 --heading=282.2
+
+
+------------------------ Selected Object -------------------------
+Path:         /home/david/Models/soo-rail-bridge/soo-auto-bridge.ac
+Latitude:     46.48932079 deg
+Longitude:    -84.37004011 deg
+Altitude ASL: 54.6431 m (179.2754 ft)
+Heading:      -164.0 deg
+Pitch:        0.0 deg
+Roll:        -0.0 deg
+
+------------------------------------------------------------------
+
+# Lines for stg
+OBJECT_SHARED /home/david/Models/soo-rail-bridge/soo-auto-bridge.ac -84.37004011 46.48932079 54.6431 164.0 0.0 -0.0
+
+# Lines for stg
+OBJECT_SHARED /home/david/Models/soo-rail-bridge/soo-auto-bridge.ac -84.36130599 46.50661663 186.8689 164.8 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED /home/david/Models/soo-rail-bridge/soo-auto-bridge.ac -84.37004011 46.48932079 54.6431 164.0 -153.5 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED /home/david/Models/soo-rail-bridge/soo-auto-bridge.ac -84.36130599 46.50661663 186.8689 164.8 6.8 0.0 -0.0

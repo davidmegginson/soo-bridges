@@ -1,0 +1,32 @@
+
+
+------------------------------ UFO -------------------------------
+Latitude:     46.51122347 deg
+Longitude:    -84.36047487 deg
+Altitude ASL: 334.4976 m (1097.4329 ft)
+39Heading:      17.0 deg
+Ground Elev:  185.6213 m (608.9939 ft)
+
+# w090n40/w085n46/1565218.stg
+OBJECT_STATIC -84.36047487 46.51122347 185.6213 343.0
+
+http://maps.google.com/maps?ll=46.5112234738,-84.3604748718&z=12&t=h
+$ fgfs --aircraft=ufo --lat=46.511223 --lon=-84.360475 --altitude=1097.43 --heading=348.3
+
+
+------------------------ Selected Object -------------------------
+Path:         /home/david/Models/soo-rail-bridge/soo-swing-bridge.ac
+Latitude:     46.51329176 deg
+Longitude:    -84.35952360 deg
+Altitude ASL: 181.5378 m (595.5964 ft)
+Heading:      -85.9 deg
+Pitch:        0.0 deg
+Roll:        -0.0 deg
+
+------------------------------------------------------------------
+
+# Lines for stg
+OBJECT_SHARED /home/david/Models/soo-rail-bridge/soo-swing-bridge.ac -84.35952360 46.51329176 181.5378 85.9 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED /home/david/Models/soo-rail-bridge/soo-swing-bridge.ac -84.35952360 46.51329176 181.5378 85.9 -3.1 0.0 -0.0
