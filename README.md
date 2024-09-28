@@ -16,7 +16,7 @@ The ``OBJECT_STATIC`` lines go into the file ``1565218.stg`` in the same directo
 
 For other applications, the numbers after the filename in the ``OBJECT_STATIC`` line are longitude, latitude, elevation (metres) and heading (degrees).
 
-### soo-auto-bridge
+### Automobile bridge
 
 ![Soo auto bridge screenshot](soo-auto-bridge/soo-auto-bridge-thumb.jpg)
 
@@ -26,7 +26,7 @@ The Sault Ste Marie International Bridge for cars and trucks.
 OBJECT_STATIC soo-auto-bridge.ac -84.36141500 46.50661663 186.8689 165.0
 ```
 
-### soo-bascule-bridge
+### Rail double-Bascule bridge
 
 ![Soo rail double Bascule bridge screenshot](soo-bascule-bridge/soo-bascule-bridge-thumb.jpg)
 
@@ -37,7 +37,7 @@ OBJECT_STATIC soo-bascule-bridge.ac -84.36334670 46.50354941 184.8447 167.5
 OBJECT_STATIC soo-bascule-bridge.ac -84.36341883 46.50343495 184.8837 347.6
 ```
 
-### soo-lift-bridge
+### Rail lift bridge
 
 ![Soo rail lift bridge screenshot](soo-lift-bridge/soo-lift-bridge-thumb.jpg)
 
@@ -47,7 +47,7 @@ The rail lift bridge across the south passage into the American locks.
 OBJECT_STATIC soo-lift-bridge.ac -84.36379784 46.50233261 187.8692 348.0
 ```
 
-### soo-swing-bridge
+### Rail swing bridge
 
 ![Soo rail swing bridge screenshot](soo-swing-bridge/soo-swing-bridge-thumb.jpg)
 
@@ -57,7 +57,7 @@ The rail swing bridge across the passage to the Canadian locks.
 OBJECT_STATIC soo-swing-bridge.ac -84.35952360 46.51329176 181.5378 85.9
 ```
 
-### soo-truss-bridges
+### Rail truss bridges
 
 ![Soo rail truss bridges screenshot](soo-truss-bridges/soo-truss-bridges-thumb.jpg)
 
