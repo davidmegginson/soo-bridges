@@ -1,14 +1,14 @@
 AC3Db
 MATERIAL "Material" rgb 0.800 0.800 0.800  amb 0.800 0.800 0.800  emis 0.000 0.000 0.000  spec 0.500 0.500 0.500  shi 64 trans 0.000
 OBJECT world
-name "Blender_exporter_v5.1__soo-double-bascule.ac"
+name "Blender_exporter_v5.1__soo-bascule-bridge.ac"
 kids 3
 OBJECT poly
 name "Counterweight"
 data 8
 Cube.002
 crease 40.0
-texture "soo-bascule.png"
+texture "soo-bascule-bridge.png"
 numvert 12
 46.53722 5.25027 2.43
 52.49693 9.09717 3
@@ -94,7 +94,7 @@ name "Span"
 data 4
 Cube
 crease 40.0
-texture "soo-bascule.png"
+texture "soo-bascule-bridge.png"
 numvert 40
 45.05407 28.44464 -3.2
 32.59344 24.73889 -3.2
@@ -353,7 +353,7 @@ name "Tower"
 data 8
 Cube.001
 crease 40.0
-texture "soo-bascule.png"
+texture "soo-bascule-bridge.png"
 numvert 33
 40 0 -3.5
 40 0 -3.5
