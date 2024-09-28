@@ -1,7 +1,7 @@
 AC3Db
 MATERIAL "Material" rgb 0.800 0.800 0.800  amb 0.800 0.800 0.800  emis 0.000 0.000 0.000  spec 0.500 0.500 0.500  shi 64 trans 0.000
 OBJECT world
-name "Blender_exporter_v5.1__soo-truss-bridge.ac"
+name "Blender_exporter_v5.1__soo-truss-bridges.ac"
 kids 3
 OBJECT light
 name "Light"
@@ -13,7 +13,7 @@ name "Supports"
 data 8
 Cube.013
 crease 40.0
-texture "soo-truss-bridge.png"
+texture "soo-truss-bridges.png"
 numvert 200
 327.36938 -2 3.11373
 327.36938 0 3.11373
@@ -1412,7 +1412,7 @@ name "Truss spans"
 data 4
 Cube
 crease 40.0
-texture "soo-truss-bridge.png"
+texture "soo-truss-bridges.png"
 numvert 3456
 0 12.2 -3.2
 0 0 -3.2
