@@ -5,7 +5,7 @@ Low-fidelity model of the complex international rail bridge and automobile bridg
 
 ![image](https://github.com/user-attachments/assets/26681dd0-5c77-4a73-9263-6999aaa786cf)
 
-Background on the bridge: https://historicbridges.org/bridges/browser/?bridgebrowser=truss/internationalrail/
+Background on the rail bridges: https://historicbridges.org/bridges/browser/?bridgebrowser=truss/internationalrail/
 
 ## Changes
 
