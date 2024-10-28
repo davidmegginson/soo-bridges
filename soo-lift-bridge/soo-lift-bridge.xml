@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PropertyList>
+
+  <path>soo-lift-bridge.ac</path>
+
+  <effect>
+    <inherits-from>/Effects/model-combined</inherits-from>
+    <parameters>
+      <lightmap-enabled type="int">1</lightmap-enabled>
+      <lightmap-factor><use>/environment/lightmap-factor</use></lightmap-factor>
+      <transparent>true</transparent>
+      <texture n="3">
+        <image>soo-lift-bridge2.png</image>
+      </texture>
+    </parameters>
+    <object-name>Control house</object-name>
+  </effect>
+
+</PropertyList>
