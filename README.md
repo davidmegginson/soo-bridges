@@ -7,6 +7,8 @@ Low-fidelity model of the complex international rail bridge and automobile bridg
 
 Background on the rail bridges: https://historicbridges.org/bridges/browser/?bridgebrowser=truss/internationalrail/
 
+Closest airport: [Sanderson Field](https://ourairports.com/airports/KANJ/) (KANJ).
+
 
 ## Models
 
