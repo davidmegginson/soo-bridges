@@ -17,6 +17,8 @@
     <object-name>Deck</object-name>
     <object-name>Spans</object-name>
     <object-name>Supports</object-name>
+    <object-name>X-Railing</object-name>
+    <object-name>X-StreetLights</object-name>
   </effect>
   
 </PropertyList>
