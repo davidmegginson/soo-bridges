@@ -5,6 +5,8 @@ Low-fidelity model of the complex international rail bridge and automobile bridg
 
 ![image](https://github.com/user-attachments/assets/26681dd0-5c77-4a73-9263-6999aaa786cf)
 
+![Automobile bridge at night, looking towards the Ontario side.](soo-auto-bridge/screenshot-night.png)
+
 Background on the rail bridges: https://historicbridges.org/bridges/browser/?bridgebrowser=truss/internationalrail/
 
 Closest airport: [Sanderson Field](https://ourairports.com/airports/KANJ/) (KANJ).
