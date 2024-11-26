@@ -3,6 +3,7 @@
 
   <path>soo-auto-bridge.ac</path>
 
+  <!-- show the lightmap at night -->
   <effect>
     <inherits-from>/Effects/model-combined</inherits-from>
     <parameters>
@@ -20,5 +21,14 @@
     <object-name>X-Railing</object-name>
     <object-name>X-StreetLights</object-name>
   </effect>
+
+  <!-- hide streetlight object during the day -->
+  <animation>
+    <type>select</type>
+    <object-name>X-StreetLights</object-name>
+    <condition>
+      <property>/environment/lightmap-factor</property>
+    </condition>
+  </animation>  
   
 </PropertyList>
